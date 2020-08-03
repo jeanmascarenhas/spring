@@ -1,0 +1,4 @@
+br\com\devmedia\cursosspring\application\ProgramaLembreteEmail.class
+br\com\devmedia\cursosspring\service\UsuarioServico.class
+br\com\devmedia\cursosspring\domain\Mailer.class
+br\com\devmedia\cursosspring\domain\Usuario.class
